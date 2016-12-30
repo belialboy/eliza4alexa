@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "Eliza",
+      "slots": [
+        {
+          "name": "patient",
+          "type": "FREE_TEXT"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+   }
+  ]
+}
