@@ -1,5 +1,5 @@
 # eliza4alexa
-A port of the Eliza code into Amazon Alexia
+A port of the Eliza code into Amazon Alexa
 
 This takes code written by Evan Dempsey (https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/) and massages it into the Alexa framwork so that you can litterally talk to Eliza.
 
